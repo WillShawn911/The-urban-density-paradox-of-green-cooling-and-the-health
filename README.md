@@ -1,4 +1,4 @@
-# Global disparities in urban green space equity (or your actual paper title)
+# The urban density paradox of green cooling and the health dividend of targeted acupuncture across 118 cities 
 
 ## Overview
 This repository contains the data and Python code used for the spatial analysis, machine learning attribution, and scenario simulations in our study across 118 global cities.
